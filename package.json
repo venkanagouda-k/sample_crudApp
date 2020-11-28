@@ -1,0 +1,16 @@
+{
+  "name": "coding-node",
+  "version": "0.0.1",
+  "description": "Skeleton project for nodejs based coding interviews",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
